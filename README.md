@@ -96,7 +96,9 @@ Report issues on GitHub at [https://github.com/VeX4eto4777/VexAPI/issues](https:
 Include server version, Java version, config.yml and relevant logs.
 
 Join the community on Discord for support and announcements: 
-(https://img.shields.io/badge/Discord-Join%20Now-5865F2?logo=discord&logoColor=white)](https://discord.gg/EH7afrRCQv)
+
+## Discord
+[![Join our Discord](https://img.shields.io/badge/Discord-Join%20Now-5865F2?logo=discord&logoColor=white)](https://discord.gg/EH7afrRCQv)
 
 
 
