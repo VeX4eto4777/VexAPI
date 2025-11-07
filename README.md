@@ -204,15 +204,10 @@ Delivering stability, optimization, and innovation — one tick at a time.
 Join our official Discord for help, development discussions, and updates:
 👉 [**Join VexDevelopment Discord**](https://discord.gg/EH7afrRCQv)
 
----
-
 ## License
 
 This project is licensed under the MIT License.
 See the [LICENSE](LICENSE) file for full details.
-
----
-
 **Developed by VexDevelopment**
 A dedicated team focused on building efficient, high-performance Minecraft plugins for modern servers.
 Delivering stability, optimization, and innovation — one tick at a time.
